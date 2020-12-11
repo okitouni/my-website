@@ -14,7 +14,7 @@ organizations:
   url: https://www.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Using ML to solve problems in physics, and using physics to improve ML.
 
 # Interests to show in About widget
 interests:
